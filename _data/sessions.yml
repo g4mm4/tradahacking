@@ -21,15 +21,24 @@
   complexity: "Trung bình"
 -
   id: 102
-  title: "Đánh nó đi"
-  description: "Đánh nó đi vì thiếu tôn trọng tổ chức"
+  title: "XXX Injection"
+  description: "Beyond Classical Injection Method"
   subtype: presentation
   speakers: [1]
   language: "Tiếng Việt"
-  complexity: "Khó"
+  complexity: "Siêu Khó"
   video: "https://www.youtube.com/embed/YPhloZeMCW4"
 -
   id: 103
+  title: "$WIFT Attack: The Big Picture"
+  description: "Cái nhìn tổng quan về các vụ tấn công liên quan đến hệ thống SWIFT trong thời gian gần đây
+  và phương pháp phát hiện và phòng tránh kiểu tấn công này ở một số ngân hàng ở Việt Nam hiện tại"
+  subtype: presentation
+  speakers: [5]
+  language: "Tiếng Việt"
+  complexity: "Dễ"
+-
+  id: 104
   title: "Thảo luận: Ngân hàng bị tấn công liên quan đến hệ thống giao dịch liên ngân hàng trên toàn cầu SWIFT"
   description: "Thảo luận liên quan đến vụ việc các Ngân hàng trên thế giới (trong đó có TBP của Việt nam) bị tấn công liên quan đến hệ thống giao dịch liên ngân hàng trên toàn cầu SWIFT blah blah"
   subtype: presentation
